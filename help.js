@@ -4,7 +4,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-𓆩━━━〘 BOT TEAMS 〙━━━𓆪
+𓆩━━━〘 Xang Botzz 〙━━━𓆪
 𓆩━━━━━━━━━━━━━━━━━𓆪
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢√
  Nama : @${sender.split('@')[0]}
@@ -17,7 +17,7 @@ return`
 𓆩━━━━━━━━━━━━━━━━━𓆪
  𝗕𝗢𝗧 𝗜𝗡𝗙𝗢
 𓆩━━━━━━━━━━━━━━━━━𓆪
- Build : Baileys-MD
+ Build : Xang Botzz V2
  Time : ${jam} WIB
  Date : ${tanggal}
  Terdaftar : ${usernya}
