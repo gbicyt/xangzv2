@@ -4,7 +4,7 @@
   "description": "Create by XangZ",
   "main": "consoledata.js",
   "scripts": {
-    "start": "node consoledata.js"
+    "start": "node index.js"
   },
   "author": "© XangZ 2022",
   "license": "ISC",
