@@ -6,7 +6,7 @@ exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,
 return`
 𓆩━━━〘 Xang Botzz 〙━━━𓆪
 𓆩━━━━━━━━━━━━━━━━━𓆪
- 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢√
+ 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
  Nama : @${sender.split('@')[0]}
  ID : ${namenya}
  Sender : ${sender}
@@ -22,7 +22,7 @@ return`
  Date : ${tanggal}
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
- Total Fitur : 710+/Estimasi
+ Total Fitur : 617
 𓆩━━━━━━━━━━━━━━━━━𓆪
 
 |━━━━━━━━━━━━━━━━━|
