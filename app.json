@@ -1,0 +1,12 @@
+{
+  "name": "gbicyt",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/gbicyt",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
